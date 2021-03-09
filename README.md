@@ -10,6 +10,7 @@ https://github.com/git-study-session-demo/case01
 >コマンドから操作
 ## フォークしたリポジトリをローカルにクローンして、その中に入る
 <img width="1438" alt="スクリーンショット 2021-03-09 18 12 33" src="https://user-images.githubusercontent.com/71377103/110447498-a51da300-8103-11eb-87a8-962850d21c04.png">
+
 ```bash
 git clone <your repository url> case01
 cd case01
