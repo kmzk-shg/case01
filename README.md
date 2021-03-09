@@ -8,8 +8,8 @@ https://github.com/git-study-session-demo/case01
 ![スクリーンショット 2021-03-09 13 29 23](https://user-images.githubusercontent.com/869103/110418883-96bb9100-80db-11eb-8b64-5597f8ca3d56.png)
 
 >コマンドから操作
-## フォークしたリポジトリをローカルにクーロンして、その中に入る
-
+## フォークしたリポジトリをローカルにクローンして、その中に入る
+<img width="1438" alt="スクリーンショット 2021-03-09 18 12 33" src="https://user-images.githubusercontent.com/71377103/110447498-a51da300-8103-11eb-87a8-962850d21c04.png">
 ```bash
 git clone <your repository url> case01
 cd case01
