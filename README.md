@@ -31,12 +31,23 @@ git push origin feature/case0101
 ```
 >ブラウザから操作
 ## 5.リポジトリのトップ画面からPRを作成する
-![スクリーンショット 2021-03-09 13 36 52](https://user-images.githubusercontent.com/869103/110419853-71c81d80-80dd-11eb-9b07-d6fd7b2ccb3c.png)
-![スクリーンショット 2021-03-09 13 37 59](https://user-images.githubusercontent.com/869103/110419872-7987c200-80dd-11eb-8e0d-a5b15c425360.png)
+<img width="1433" alt="スクリーンショット 2021-03-11 18 12 01" src="https://user-images.githubusercontent.com/71377103/110765323-6a4c7400-8297-11eb-8013-5732126ca78c.png">
+
+**※※マージ先が自分のリポジトリになっているか確認してください。※※**
+![スクリーンショット 2021-03-11 18 09 57](https://user-images.githubusercontent.com/71377103/110765456-89e39c80-8297-11eb-8d8d-8e70bc3d86dd.png)
+
+
+**PRを作成する**
+<img width="1033" alt="スクリーンショット 2021-03-11 18 10 32" src="https://user-images.githubusercontent.com/71377103/110766182-3f165480-8298-11eb-8a8d-c5b8f28a5ee0.png">
+
+
 ## 6.PRを確認してマージする
-![スクリーンショット 2021-03-09 13 39 18](https://user-images.githubusercontent.com/869103/110419916-91f7dc80-80dd-11eb-89e7-94aa8cbfb9b6.png)
+<img width="1433" alt="スクリーンショット 2021-03-11 18 13 44" src="https://user-images.githubusercontent.com/71377103/110765848-ee9ef700-8297-11eb-917f-ad09c3961f3d.png">
+
+
 ## 7.PRをマージ終わるとPR用ブランチを削除
-![スクリーンショット 2021-03-09 13 41 25](https://user-images.githubusercontent.com/869103/110419977-afc54180-80dd-11eb-86b0-5ada1d6d4484.png)
+<img width="1433" alt="スクリーンショット 2021-03-11 18 14 03" src="https://user-images.githubusercontent.com/71377103/110765930-01b1c700-8298-11eb-9b88-bae7a3d6deae.png">
+
 
 >先ほど追加したファイルはmainブランチに反映していることを確認>
 
