@@ -36,7 +36,8 @@ git push origin feature/case0101
 
 ## 6.PRを確認してマージする
 
-※※マージ先が自分のリポジトリになっているか確認してください。※※
+**※※マージ先が自分のリポジトリになっているか確認してください。※※**
+
 ![スクリーンショット 2021-03-09 13 39 18](https://user-images.githubusercontent.com/869103/110419916-91f7dc80-80dd-11eb-89e7-94aa8cbfb9b6.png)
 ## 7.PRをマージ終わるとPR用ブランチを削除
 ![スクリーンショット 2021-03-09 13 41 25](https://user-images.githubusercontent.com/869103/110419977-afc54180-80dd-11eb-86b0-5ada1d6d4484.png)
