@@ -36,6 +36,11 @@ git push origin feature/case0101
 **※※マージ先が自分のリポジトリになっているか確認してください。※※**
 ![スクリーンショット 2021-03-11 18 09 57](https://user-images.githubusercontent.com/71377103/110765456-89e39c80-8297-11eb-8d8d-8e70bc3d86dd.png)
 
+
+**PRを作成する**
+<img width="1033" alt="スクリーンショット 2021-03-11 18 10 32" src="https://user-images.githubusercontent.com/71377103/110766182-3f165480-8298-11eb-8a8d-c5b8f28a5ee0.png">
+
+
 ## 6.PRを確認してマージする
 <img width="1433" alt="スクリーンショット 2021-03-11 18 13 44" src="https://user-images.githubusercontent.com/71377103/110765848-ee9ef700-8297-11eb-917f-ad09c3961f3d.png">
 
