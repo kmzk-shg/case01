@@ -33,7 +33,10 @@ git push origin feature/case0101
 ## 5.リポジトリのトップ画面からPRを作成する
 ![スクリーンショット 2021-03-09 13 36 52](https://user-images.githubusercontent.com/869103/110419853-71c81d80-80dd-11eb-9b07-d6fd7b2ccb3c.png)
 ![スクリーンショット 2021-03-09 13 37 59](https://user-images.githubusercontent.com/869103/110419872-7987c200-80dd-11eb-8e0d-a5b15c425360.png)
+
 ## 6.PRを確認してマージする
+
+※※マージ先が自分のリポジトリになっているか確認してください。※※
 ![スクリーンショット 2021-03-09 13 39 18](https://user-images.githubusercontent.com/869103/110419916-91f7dc80-80dd-11eb-89e7-94aa8cbfb9b6.png)
 ## 7.PRをマージ終わるとPR用ブランチを削除
 ![スクリーンショット 2021-03-09 13 41 25](https://user-images.githubusercontent.com/869103/110419977-afc54180-80dd-11eb-86b0-5ada1d6d4484.png)
